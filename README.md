@@ -33,7 +33,7 @@ From me only having 2 nights to complete the task I spent most of my time creati
 ## Improvement I could have made
 •	I of course could have used MongoDB but with the time I had available with being in work in the day I had to use my own knowledge to complete this in the time limit.
 
-•	Also, the next thing would be to improve the UI so that the requests work with the submit button and get the table to show the correct amounts that have been persisted into the DB.
+•	Also, the next thing would be to improve the UI so that the requests work with the submit button and get the table to show the correct amounts that have been persisted into the DB.This would be done by making a fancier ES6 features like with lamba expersions for the App function, then also making the promise axios request into an async/await, so the app looks cleaners.
 
 ## Enhancements and scaling up
 •	Of course this could be scaled with more requests and set up to use all CRUD requests.
